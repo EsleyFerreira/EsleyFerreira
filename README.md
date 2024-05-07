@@ -66,7 +66,10 @@
 
 ### About me:
 
-> Atualmente estou na faculdade, buscando oportunidades de trabalho na área de desenvolvimento. Estou familiarizado com C e Java, Visual Studio Code, Git e GitHub, e tenho experiência em sistemas operacionais Linux e Windows, Estou dedicando meu tempo ao aprendizado, com foco em aprimorar minhas habilidades em desenvolvimento Back-End com Java. Além disso, estou explorando novas ferramentas de desenvolvimento como, IntelliJ IDEA , DataGrip, WebStorm e Docker.
+> Atualmente estou na faculdade, buscando oportunidades de trabalho na área de desenvolvimento. Estou familiarizado com C e Java, Visual Studio Code, Git e GitHub, e tenho experiência em sistemas operacionais Linux e Windows, Estou dedicando meu tempo ao aprendizado, com foco em aprimorar minhas habilidades em desenvolvimento Back-End com Java.
+> <br>
+
+> Além disso, estou explorando novas ferramentas de desenvolvimento como, IntelliJ IDEA , DataGrip, WebStorm e Docker.
 <br> Em tempos livres eu sou entusiasta da música, gosto de tocar instrumentos musicais, cantar e estudar a língua inglesa.
 >
 <p>
