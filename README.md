@@ -10,8 +10,7 @@
   <a href="https://www.linkedin.com/in/esley-ferreira-1322a2286/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://discordapp.com/users/1133970980402892881">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <a href = "mailto:esley.fs25@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </a>
   <a href="https://www.instagram.com/esley.f.silva">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -31,7 +30,7 @@
   <p>
   <a href="https://skillicons.dev">
    <img src= https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg width="50" height="50" alt="C Icon"/>
-    <img src=   https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg  width="50" height="50" alt="Java Icon"/>
+   <img src= https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg  width="50" height="50" alt="Java Icon"/>
   </a>
 </p>
  
@@ -40,18 +39,18 @@
   <p>
   <a href="https://skillicons.dev">
     <img src = https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg width="50" height="50" alt="VS Code Icon"/>
-       <img src = https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg width="50" height= "50" alt = "IntelliJ Icon"/>
-     <img src = https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg width="50" height="50" alt="GitHub Icon"/>
-   <img src = https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg   width="50" height="50" alt="Git Icon"/>
+    <img src = https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg width="50" height= "50" alt = "IntelliJ Icon"/>
+    <img src = https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg width="50" height="50" alt="GitHub Icon"/>
+    <img src = https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg width="50" height="50" alt="Git Icon"/>
   </a>
 </p>
 
- 
 - **💻 Operating Systems I Use**:
 
   <p>
    <a href="https://skillicons.dev">
      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+     <img src= "https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
    </a>
   </p>
@@ -59,35 +58,39 @@
    <img src = "./Assets/png_folder/LineBarRGB.png" width = "100%" height = "8px"/
 </p>
 
-### **📚 Learning Technologies and Tools**
-
-
 - **Primary Focus Programming Language:** Java.
 - **Other Knowledge Languages:** C, C++
-- **Development Tools:**  WebStorm, IntelliJ IDEA, DataGrip, Docker
-- **Databases:** Microsoft SQL Server.
+- **Development Tools:** IntelliJ IDEA, DataGrip, WebStorm, e Docker
+- **Databases:** PostgreSQL, MongoDB
 - **Design Tool:** Figma.
 
 ### About me:
 
-
->I'm currently in college, seeking job opportunities in the development field. I'm familiar with C and C++, Visual Studio Code, Git, and GitHub, and I have knowledge in the Windows and Ubuntu Linux operating systems.
-> I'm dedicating my time to learning, with a focus on improving my skills in Back-End development with Java. Additionally, I'm exploring new development tools like WebStorm, IntelliJ IDEA, and DataGrip. I'm excited to apply my knowledge to projects and grow in the development field.🚀
-
-
+> Atualmente estou na faculdade, buscando oportunidades de trabalho na área de desenvolvimento. Estou familiarizado com C e Java, Visual Studio Code, Git e GitHub, e tenho experiência em sistemas operacionais Linux e Windows, Estou dedicando meu tempo ao aprendizado, com foco em aprimorar minhas habilidades em desenvolvimento Back-End com Java. Além disso, estou explorando novas ferramentas de desenvolvimento como, IntelliJ IDEA , DataGrip, WebStorm e Docker.
+<br> Em tempos livres eu sou entusiasta da música, gosto de tocar instrumentos musicais, cantar e estudar a língua inglesa.
+>
 <p>
    <img src = "./Assets/png_folder/LineBarRGB.png" width = "100%" height = "8px"/
 </p>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=EsleyFerreira&label=Profile%20views&color=0e75b6&style=flat" alt="EsleyFerreira" /> </p>
- 
-```C++
-    bool coffee_ran_out = true;
-    if (coffee_ran_out) {
-        std::cout << "Time to refill the cup and keep on coding! ☕️👩‍💻\n";
-    }
-    else {
-        std::cout << "Nothing beats a good cup of coffee to go with those lines of code! ☕️💻\n";
-    }
+
+<div style="text-align: center;">
+  <p align="left">
+  <a>
+    <img alt="Github Followers" src="https://img.shields.io/github/followers/EsleyFerreira?style=for-the-badge&logo=github&labelColor=%23232634&color=%23a6d189" />
+    <img alt="Github Stars" src="https://img.shields.io/github/stars/EsleyFerreira?style=for-the-badge&logo=polestar&labelColor=%23232634&color=%23e5c8890" />
+
+  </a>
+</div>
+
+```Java
+boolean coffeeRanOut = true;
+
+if (coffeeRanOut) {
+  System.out.println("Time to refill the cup and keep on coding! ☕️‍\n");
+} else {
+  System.out.println("Nothing beats a good cup of coffee to go with those lines of code! ☕️\n");
+}
+
 ```
 </p>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer""/>
