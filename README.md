@@ -58,6 +58,7 @@
    <img src = "./Assets/png_folder/LineBarRGB.png" width = "100%" height = "8px"/
 </p>
 
+### **📚 Learning Technologies and Tools**
 - **Primary Focus Programming Language:** Java.
 - **Other Knowledge Languages:** C, C++
 - **Development Tools:** IntelliJ IDEA, DataGrip, WebStorm, e Docker
