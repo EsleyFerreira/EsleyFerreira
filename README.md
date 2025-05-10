@@ -25,6 +25,7 @@
   <a href="https://skillicons.dev">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" height="50" alt="Java Icon"/>
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="50" height="50" alt="Rust Icon"/>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50" alt="Python Icon"/>
   </a>
 </p>
  
@@ -49,10 +50,8 @@
    <a href="https://skillicons.dev">
      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch-Linux">
      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-     </a>
+   </a>
   </p>
-
-<p>
    <img src="./Assets/png_folder/LineBarRGB.png" width="100%" height="8px"/>
 </p>
 
@@ -84,15 +83,24 @@ Acredito que minha combinação de habilidades técnicas e soft skills pode faze
   </a>
 </div>
 
-```Java
-boolean coffeeRanOut = true;
 
-if (coffeeRanOut) {
-  System.out.println("Time to refill the cup and keep on coding! ☕️‍\n");
-} else {
-  System.out.println("Nothing beats a good cup of coffee to go with those lines of code! ☕️\n");
+```Rust
+fn main() {
+    let coffee_is_out = true;
+
+    if coffee_is_out {
+        println!("Time to refill the cup and keep on coding! ☕️‍");
+    } else {
+        println!("Nothing beats a good cup of coffee to go with those lines of code! ☕️");
+    }
 }
 ```
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="400"/>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=Thank+you+for+visiting+:%29)](https://git.io/typing-svg)
+
 </p>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer""/>
 </p>
