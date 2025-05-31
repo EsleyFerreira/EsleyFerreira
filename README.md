@@ -52,7 +52,7 @@
      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
    </a>
   </p>
-   <img src="./Assets/png_folder/LineBarRGB.png" width="100%" height="8px"/>
+<img src="./Assets/png_folder/LineBarRGB.png" width="100%" height="8px"/>
 </p>
 
 ### 🌱 O Que Me Define:
@@ -72,7 +72,7 @@ Para mim, desenvolvimento de software vai além de habilidades técnicas. Aqui e
 Acredito que minha combinação de habilidades técnicas e soft skills pode fazer a diferença em projetos inovadores. Vamos conversar e ver como posso agregar valor ao seu time!
 
 <p>
-   <img src="./Assets/png_folder/LineBarRGB.png" width="100%" height="8px"/>
+<img src="./Assets/png_folder/LineBarRGB.png" width="100%" height="8px"/>
 </p>
 
 <div style="text-align: center;">
